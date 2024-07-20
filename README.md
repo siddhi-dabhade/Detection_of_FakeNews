@@ -3,6 +3,10 @@
 # Overview
 Welcome to the Detection of Fake News project! This repository houses the code and resources for identifying fake news articles using machine learning techniques. Our objective is to build a robust and efficient system that can distinguish between real and fake news based on textual content.
 
+# Dataset
+Download the news.csv dataset from the following drive link:
+"https://drive.google.com/drive/folders/1eJ0AxlKKVez3gj0h3HPCF4WzNH0NIuf9?usp=drive_link"
+
 # Features
 1. Feature Extraction:
    Use techniques such as TF-IDF and word embeddings to convert text into numerical features.
