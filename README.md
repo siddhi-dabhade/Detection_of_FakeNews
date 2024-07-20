@@ -15,8 +15,8 @@ Welcome to the Detection of Fake News project! This repository houses the code a
 To build the model, we make use of:
 # 1. TfidfVectorizer-
    The TfidfVectorizer is a tool in natural language processing (NLP) that transforms text data into numerical feature vectors. It combines two methods:
-       (a) Term Frequency (TF): Measures how frequently a term appears in a document. 
-       (b) Inverse Document Frequency (IDF): Measures how important a term is by reducing the weight of terms that appear frequently across all documents.
+   1. Term Frequency (TF): Measures how frequently a term appears in a document.
+   2. Inverse Document Frequency (IDF): Measures how important a term is by reducing the weight of terms that appear frequently across all documents.
   The product of TF and IDF gives the TF-IDF score, which reflects the importance of a term in a document relative to the entire corpus. This helps in highlighting important words and reducing the influence of common but less informative words.
 
 # 2. PassiveAggressiveClassifier-
