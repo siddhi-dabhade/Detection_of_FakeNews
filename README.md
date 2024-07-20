@@ -5,7 +5,7 @@ Welcome to the Detection of Fake News project! This repository houses the code a
 
 # Features
 1. Feature Extraction:
-  Use techniques such as TF-IDF and word embeddings to convert text into numerical features.
+   Use techniques such as TF-IDF and word embeddings to convert text into numerical features.
 2. Model Training:
    Implement and train various machine learning models, including logistic regression, Naive Bayes, SVM, and deep learning models.
 3. Model Evaluation:
